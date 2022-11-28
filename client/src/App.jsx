@@ -123,7 +123,7 @@ class App extends Component {
 					If you want to buy tokens, send Wei to this address:{" "}
 					{this.state.tokenSaleAddress}
 				</p>
-				<p>You currently have: {this.state.userTokens} CAPPU Tokens</p>
+				<p>You currently have: {this.state.userTokens} HLHM Tokens</p>
 				<button
 					type="button"
 					onClick={this.handleBuyTokens}>
